@@ -1,0 +1,4 @@
+From: Diego Pereira myemail@somehost.com\n
+To: Someone someone@somehost.com\n
+Subject: Job Opportunity\n
+Message: We have a great job for you. Reply this email now!\n
